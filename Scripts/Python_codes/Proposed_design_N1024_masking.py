@@ -13,7 +13,7 @@ FILE_KEY0 = "/VCD files/Proposed/trace_N1024_key0_full.vcd"
 FILE_KEY1 = "/VCD files/Proposed/trace_N1024_key1_full.vcd"
 
 # Output filename for the graph
-SAVE_PATH = "/home/ihs08/Research_Devika/Verilog/Python Codes/Proposed_SCA_Plot_N1024.png"
+SAVE_PATH = "/Proposed_SCA_Plot_N1024.png"
 
 # Match the VCD timescale (1ps) -> Clock is 10ns = 10,000ps
 CLK_PERIOD = 10000
