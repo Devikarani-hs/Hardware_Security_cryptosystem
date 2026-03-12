@@ -14,8 +14,8 @@ To facilitate reproducibility, the repository is organized as follows:
 
 ```text
 ├── hdl/                  # Synthesizable Verilog RTL source files
-│   ├── psc.v             
-│   ├── sma.v             
+│   ├── psc_accelerator.v             
+│   ├── sma_accelerator.v             
 │   ├── proposed_unmasked.v
 │   └── proposed_masked.v   
 ├── sim/                  # Simulation environments and testbenches
